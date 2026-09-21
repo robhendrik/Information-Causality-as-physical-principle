@@ -1,7 +1,5 @@
-This repository contains the Python code (in a Jupyter notebook) supporting the blogpost:
+This repository contains the Python code (in a Jupyter notebook) supporting the blogpost on The Armchair Quantum Physicist:
 
-Information Causality As A Physical Principle
-
-The blogpost can be found on Medium (author The armchair quantum physicist) and on Wordpress (armchairquantumphysicist.com)
+(Information Causality As A Physical Principle)[https://armchairquantumphysicist.com/2024/08/16/information-causality-as-a-physical-principle/]
 
 Rob Hendriks June 2024
